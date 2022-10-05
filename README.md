@@ -28,3 +28,7 @@
 
 <h3>Abstraction:</h3>
 <p>Through the process of abstraction, a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency.</p>
+<h3>Reset Stylesheet</h3>
+<p>A reset stylesheet is a collection of CSS rules used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.</p>
+<h3>User Agent Styles</h3>
+<p>User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code.</p>
