@@ -34,7 +34,7 @@
 <p>User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code.</p>
 <h3>JavaScript</h3>
 <p>Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.</p>
-<h3>Conditionals</h3.
+<h3>Conditionals</h3>
 <p>Conditionals Statements - A way for computers to make decisions based on conditions.</p>
 <h3>Operators</h3>
 <p>In mathematics and computer programming, an operator is a character that represents a specific mathematical or logical action or process.</p>
