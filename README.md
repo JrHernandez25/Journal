@@ -50,3 +50,8 @@
 <p>Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.</p>
 <h3>Function</h3>
 <p>A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task.</p>
+<h3>While Loop:</h3>
+<p>
+A "While" Loop is used to repeat a specific block of code an unknown number of times, until a condition is met.</p>
+<h3>For Loop:</h3>
+<p>a for-loop or for loop is a control flow statement for specifying iteration. Specifically, a for loop functions by running a section of code repeatedly until a certain condition has been satisfied.</p>
